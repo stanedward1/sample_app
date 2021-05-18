@@ -1,24 +1,12 @@
-# README
+# Sample_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**学习自《railstutorial6th》**
 
-Things you may want to cover:
+**一个简单的仿Twitter的网站**
 
-* Ruby version
+**没有猫图的网页还算是网页嘛🐈**
 
-* System dependencies
+![image-20210518222932839](img/image-20210518222932839.png)
 
-* Configuration
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
